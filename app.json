@@ -1,0 +1,8 @@
+{
+    "name": "rfrp",
+    "description": "Deploy FRP to Heroku.",
+    "keywords": [
+      "frp"
+    ],
+    "stack": "container"
+  }
